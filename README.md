@@ -2,7 +2,7 @@
 
 This repo contains the code for my master's thesis on Deep Learning for EEG Signal Analysis in Cognitive Decline Studies
 The dataset used for this thesis is from [Open Neuro](https://openneuro.org/datasets/ds004504/versions/1.0.8/download)
-It contains code on -
+It contains code for all the models and the thesis draft.
 
 1. Model 1: MLP and Random Forest with feature extraction
 2. Model 2: ResNet1D
